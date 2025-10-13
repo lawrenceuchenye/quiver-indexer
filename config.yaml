@@ -2,7 +2,7 @@
 name: envio-indexer
 networks:
 - id: 10143
-  start_block: 41524654
+  start_block: 42177608
   contracts:
   - name: MonadUSDC
     address:
